@@ -1,3 +1,9 @@
+/*
+ - unordered_map의 사용
+    -> key를 마치 배열의 Index처럼 사용한다! ex) hash[name]++ (value가 Int)
+ - for(string name : participant) 형태 사용
+    데이터 타입이 너무 길면 auto로!
+ */
 #include <string>
 #include <vector>
 #include <unordered_map>
