@@ -16,3 +16,5 @@
 + pgm_조이스틱(Greedy)
 + pgm_큰 수 만들기(Greedy)
 + pgm_타겟 넘버(BFS, DFS)
++ pgm_더 맵게(Heap)
++ pgm_여행경로(BFS, DFS)
