@@ -18,3 +18,5 @@
 + pgm_타겟 넘버(BFS, DFS)
 + pgm_더 맵게(Heap)
 + pgm_여행경로(BFS, DFS)
++ pgm_입국심사(BS)
++ pgm_구명보트(Greedy)
