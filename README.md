@@ -20,3 +20,4 @@
 + pgm_여행경로(BFS, DFS)
 + pgm_입국심사(BS)
 + pgm_구명보트(Greedy)
++ pgm_단속카메라(Greedy)
