@@ -22,3 +22,7 @@
 + pgm_구명보트(Greedy)
 + pgm_단속카메라(Greedy)
 + pgm_징검다리(BS)
++ pgm_정수 삼각형(DP)
++ pgm_가장 먼 노드(Graph)
++ pgm_순위(Graph)
++ pgm_도둑질(DP)
