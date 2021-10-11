@@ -35,3 +35,4 @@
 + boj6064_카잉 달력(BruteForce)
 + boj15649_N과 M (1)(BruteForce) -> 백트래킹
 + boj15651_N과 M (3)(BruteForce)
++ boj10972_다음 순열(BruteForce)
