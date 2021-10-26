@@ -33,7 +33,10 @@
 + boj1699_제곱수(DP)
 
 + boj6064_카잉 달력(BruteForce)
-+ boj15649_N과 M (1)(BruteForce) -> 백트래킹
++ boj15649_N과 M (1)_백트래킹(BruteForce)
 + boj15651_N과 M (3)(BruteForce)
 + boj10972_다음 순열(BruteForce)
 + boj2529_부등호(BruteForce)
+
++ boj11723_집합_비트마스크, IO이슈(BruteForce)
++ boj1182_부분수열의 합_비트마스크, 부분집합 구하기(BruteForce)
