@@ -7,17 +7,17 @@
 - 주석으로 필기
 
 ### 복습필요목록
-+ boj_2178_미로탐색(Search)
-+ boj_2293_동전1(Search)
++ ~~boj_2178_미로탐색(Search)~~
++ ___boj_2293_동전1(DP)___ *
 + pgm_완주하지 못한 선수(Hash)
 + pgm_전화번호목록(Hash)
 + pgm_주식가격(Stack, Queue)
 + pgm_가장 큰 수(Sort)
-+ pgm_조이스틱(Greedy)
-+ pgm_큰 수 만들기(Greedy)
-+ pgm_타겟 넘버(BFS, DFS)
++ ~~pgm_조이스틱(Greedy)~~
++ ___pgm_큰 수 만들기(Greedy)___ *
++ ~~pgm_타겟 넘버(BFS, DFS)~~
 + pgm_더 맵게(Heap)
-+ pgm_여행경로(BFS, DFS)
++ ~~ pgm_여행경로(BFS, DFS)~~
 + pgm_입국심사(BS)
 + pgm_구명보트(Greedy)
 + pgm_단속카메라(Greedy)
@@ -43,7 +43,7 @@
 + boj2064_IP 주소_비트마스크(BruteForce) : 80프로에서 틀리다는데 이유를 찾을 수 없다
 + boj14391_종이조각_비트마스크(BruteForce)
 
-+ pgm_배달 : 최단거리 문제 복습!(다익스트라, 플로이드-워셜, 벨만포드)
++ pgm_배달(Shortest Path) : 최단거리 문제 복습!(다익스트라, 플로이드-워셜, 벨만포드)
 + pgm_기지국 설치 : 논리는 맞았지만.. 효율성 0점 -> 한 끗 생각 차이!
 
 + boj13023_친구관계(Graph)
