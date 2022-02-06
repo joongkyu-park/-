@@ -9,16 +9,16 @@
 ### 복습필요목록
 + ~~boj_2178_미로탐색(Search)~~
 + ___boj_2293_동전1(DP)___ *
-+ pgm_완주하지 못한 선수(Hash)
-+ pgm_전화번호목록(Hash)
-+ pgm_주식가격(Stack, Queue)
-+ pgm_가장 큰 수(Sort)
++ ~~pgm_완주하지 못한 선수(Hash)~~
++ ~~pgm_전화번호목록(Hash)~~
++ ~~pgm_주식가격(Stack, Queue)~~
++ ~~pgm_가장 큰 수(Sort)~~
 + ~~pgm_조이스틱(Greedy)~~
 + ___pgm_큰 수 만들기(Greedy)___ *
 + ~~pgm_타겟 넘버(BFS, DFS)~~
-+ pgm_더 맵게(Heap)
-+ ~~ pgm_여행경로(BFS, DFS)~~
-+ pgm_입국심사(BS)
++ ~~pgm_더 맵게(Heap)~~
++ ~~pgm_여행경로(BFS, DFS)~~
++ ___pgm_입국심사(BS)___ *
 + pgm_구명보트(Greedy)
 + pgm_단속카메라(Greedy)
 + pgm_징검다리(BS)
@@ -55,3 +55,7 @@
 + boj2146_다리 만들기(BFS, DFS) : 성공했다. 집념의 승리. 한 번 슥 보면서 복습
 + boj13913_숨바꼭질 4(BFS) : 깔끔하게 맞았음. 그러나 parent 배열의 기가막힌 활용 다시 확인하자
 + boj14226_이모티콘(BFS) : 논리, 아이디어 맞았음. 그러나 앞으로 반드시 큐 안에 append하기전에 visited=true 처리할 것!!!! 꺼낼 때 방문처리하게 되면, 중복되는 원소가 매우많이 들어갈 수 있다.  
+
++ boj1806_부분합(TwoPointer)
++ boj1644_소수의 연속합(TwoPointer) : 소수배열을 사용하는 방법! https://jellysong.tistory.com/93 참조
++ pgm_양과 늑대(2022 카카오 블라인드)
