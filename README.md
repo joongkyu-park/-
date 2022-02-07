@@ -19,10 +19,10 @@
 + ~~pgm_더 맵게(Heap)~~
 + ~~pgm_여행경로(BFS, DFS)~~
 + ___pgm_입국심사(BS)___ *
-+ pgm_구명보트(Greedy)
-+ pgm_단속카메라(Greedy)
-+ pgm_징검다리(BS)
-+ pgm_정수 삼각형(DP)
++ ~~pgm_구명보트(Greedy)~~
++ ___pgm_단속카메라(Greedy)___ *
++ ___pgm_징검다리(BS)___ *
++ ~~pgm_정수 삼각형(DP)~~
 + pgm_가장 먼 노드(Graph)
 + pgm_순위(Graph)
 

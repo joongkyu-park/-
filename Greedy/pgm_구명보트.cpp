@@ -9,31 +9,26 @@
 #include <string>
 #include <vector>
 #include <algorithm>
-
 using namespace std;
 
 int solution(vector<int> people, int limit) {
-    vector<int> peopleCopy = people;
-    sort(peopleCopy.begin(),peopleCopy.end());
+    vector<int> arr = people;
+    int answer = 0;
+    int lIndex = 0;
+    int rIndex = arr.size()-1;
+    sort(arr.begin(),arr.end());
     
-    int result = 0;
-    
-    int left = 0;
-    int right = peopleCopy.size()-1;
-    while (left < right ) {
-        int sum = peopleCopy[left] + peopleCopy[right];
-        
-        if (sum > limit){
-            right--;
-            result++;
+    while (lIndex <= rIndex) {
+        if (arr[lIndex] + arr[rIndex] <= limit) {
+            lIndex += 1;
+            rIndex -= 1;
+            answer += 1;
         }
         else {
-            left++;
-            right--;
-            result++;
+            rIndex -= 1;
+            answer += 1;
         }
     }
-    if (left == right) {result++;}
     
-    return result;
+    return answer;
 }
