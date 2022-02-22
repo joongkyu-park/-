@@ -30,16 +30,16 @@
 + ~~boj1463_1로 만들기(DP)~~
 + ___boj10844_쉬운 계단 수(DP)___ *
 + ___boj11053_가장 긴 증가하는 부분 수열(DP)___ *
-+ boj1699_제곱수(DP)
++ ___boj1699_제곱수(DP)___ * -> dp 접근시 생각하는 방법! : n번째에서, (이전의 값 이용하면서 + 문제에 따른 방법 이용)
 
-+ boj6064_카잉 달력(BruteForce)
-+ boj15649_N과 M (1)_백트래킹(BruteForce)
-+ boj15651_N과 M (3)(BruteForce)
-+ boj10972_다음 순열(BruteForce)
-+ boj2529_부등호(BruteForce)
++ ~~boj6064_카잉 달력(BruteForce)~~
++ ~~boj15649_N과 M (1)_백트래킹(BruteForce)~~
++ ~~boj15651_N과 M (3)(BruteForce)~~
++ ___boj10972_다음 순열(BruteForce)___ * -> 입력의 수를 보고 어떻게 문제 풀어야할지 생각. 규칙찾기였다!
++ ~~boj2529_부등호(BruteForce)~~
 
 + boj11723_집합_비트마스크, IO이슈(BruteForce)
-+ boj1182_부분수열의 합_비트마스크, 부분집합 구하기(BruteForce)
++ ~~boj1182_부분수열의 합_비트마스크, 부분집합 구하기(BruteForce)~~
 + boj2064_IP 주소_비트마스크(BruteForce) : 80프로에서 틀리다는데 이유를 찾을 수 없다
 + boj14391_종이조각_비트마스크(BruteForce)
 
@@ -59,3 +59,6 @@
 + boj1806_부분합(TwoPointer)
 + boj1644_소수의 연속합(TwoPointer) : 소수배열을 사용하는 방법! https://jellysong.tistory.com/93 참조
 + pgm_양과 늑대(2022 카카오 블라인드)
+
+
++ boj1339_단어 수학(BruteForce) : 백트래킹으로 풀었는데 시간초과. 문제 잘보고 어떤 방법으로 풀지 정하자. 무지성으로 풀기전에 생각 오래하기

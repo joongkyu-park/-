@@ -1,6 +1,7 @@
 /*
  참고 https://kwanghyuk.tistory.com/25
  https://amunre21.github.io/boj/1-10972/
+ https://velog.io/@sun02/Swift-%EB%B0%B1%EC%A4%80-10972-%EB%8B%A4%EC%9D%8C-%EC%88%9C%EC%97%B4
  */
 import Foundation
 
