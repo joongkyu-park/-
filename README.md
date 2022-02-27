@@ -61,10 +61,9 @@
 + boj1644_소수의 연속합(TwoPointer) : 소수배열을 사용하는 방법! https://jellysong.tistory.com/93 참조
 + pgm_양과 늑대(2022 카카오 블라인드)
 
-
 + boj1339_단어 수학(BruteForce) : 백트래킹으로 풀었는데 시간초과. 문제 잘보고 어떤 방법으로 풀지 정하자. 무지성으로 풀기전에 생각 오래하기
 + boj9663_N-Queen(BruteForce)
 + boj2580_스도쿠(BruteForce) : dfs가 아니라 행,열,사각형에서 1개만 0인 경우를 찾는 반복문을 돌리는 형태로 풀면, 모든 칸이 0인 경우는 무한루프. -> dfs로 풀어야한다, https://yabmoons.tistory.com/88 참고
 -> 이해완벽히하고 boj4574_스도미노쿠 맞췄음!! 기쁘다
 
-
++ boj1080_행렬(Greedy) : 한 번 정도 다시 풀어보기만, 참고 : https://mizzo-dev.tistory.com/entry/baekjoon1080
