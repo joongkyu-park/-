@@ -66,4 +66,9 @@
 + boj2580_스도쿠(BruteForce) : dfs가 아니라 행,열,사각형에서 1개만 0인 경우를 찾는 반복문을 돌리는 형태로 풀면, 모든 칸이 0인 경우는 무한루프. -> dfs로 풀어야한다, https://yabmoons.tistory.com/88 참고
 -> 이해완벽히하고 boj4574_스도미노쿠 맞췄음!! 기쁘다
 
-+ boj1080_행렬(Greedy) : 한 번 정도 다시 풀어보기만, 참고 : https://mizzo-dev.tistory.com/entry/baekjoon1080
++ boj1080_행렬(Greedy) : 한 번 정도 다시 풀어보기만, 
+참고 : https://mizzo-dev.tistory.com/entry/baekjoon1080
++ boj2138_전구와 스위치(Greedy) : 아이디어정도만 다시 상기
++ boj1285_동전 뒤집기(Greedy)
++ boj1202_보석도둑(Greedy) : 우선순위큐의 활용
++ boj12015_가장 긴 증가하는 부분 수열 2(이분탐색)
