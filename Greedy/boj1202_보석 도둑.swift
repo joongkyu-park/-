@@ -1,12 +1,10 @@
 // 개념이해 : https://devowen.com/300
-
+// heap코드 : https://fomaios.tistory.com/entry/Data-Structure-%ED%9E%99Heap%EC%9D%B4%EB%9E%80-feat-Swift
 let nk = readLine()!.split(separator: " ").map{Int(String($0))!}
 let n = nk[0]
 let k = nk[1]
-
 var gems = [(Int,Int)]()
 var backs = [Int]()
-
 for _ in 0..<n{
     let input = readLine()!.split(separator: " ").map{Int(String($0))!}
     gems.append((input[0],input[1]))
@@ -15,22 +13,19 @@ for _ in 0..<k{
     let input = Int(readLine()!)!
     backs.append(input)
 }
-
+// 보석, 가방 모두 무게 오름차순으로 정렬
 backs.sort()
 gems.sort{$0.0<$1.0}
-
-
 var sum: Int64 = 0
-var pq = MaxHeap(nodes: [])
+var pq = MaxHeap(nodes: []) // heap을 이용한 우선순위큐
 var backIndex = 0
 var gemIndex = 0
-
-
-while backIndex < k && gemIndex < n{
+while backIndex < k {
     
     for i in gemIndex..<n{
         if gems[i].0 <= backs[backIndex]{
             pq.insert(gems[i].1)
+            gemIndex = i+1
         }
         else {
             gemIndex = i
@@ -44,16 +39,11 @@ while backIndex < k && gemIndex < n{
     }
     backIndex += 1
 }
-
 print(sum)
 
 
 
-
-
-
-
-// heap코드 : https://fomaios.tistory.com/entry/Data-Structure-%ED%9E%99Heap%EC%9D%B4%EB%9E%80-feat-Swift
+// heap코드
 struct MaxHeap {
     var nodes:[Int] = []
     
