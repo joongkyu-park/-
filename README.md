@@ -68,8 +68,10 @@
 
 + boj1080_행렬(Greedy) : 한 번 정도 다시 풀어보기만, 
 참고 : https://mizzo-dev.tistory.com/entry/baekjoon1080
-+ boj2138_전구와 스위치(Greedy) : 아이디어정도만 다시 상기
++ boj2138_전구와 스위치(Greedy) : 아이디어 상기 정도만 다시
 + boj1285_동전 뒤집기(Greedy)
 + boj1202_보석도둑(Greedy) : 우선순위큐의 활용
 + boj12015_가장 긴 증가하는 부분 수열 2(이분탐색)
-+ boj12970_AB(Greedy)
++ boj12970_AB(Greedy) : 아이디어 참고
++ boj1201_NMK(Greedy)
++ boj2873_롤러코스터(Greedy) : 아이디어 상기 정도만 다시
