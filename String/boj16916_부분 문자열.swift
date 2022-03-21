@@ -3,6 +3,9 @@
  https://bowbowbow.tistory.com/6
  https://soobarkbar.tistory.com/80
  https://bblackscene21.tistory.com/2
+ 
+ j = pi[j-1]인 이유
+ https://blog.naver.com/PostView.nhn?blogId=kks227&logNo=220917078260&categoryNo=299&parentCategoryNo=0&viewDate=&currentPage=4&postListTopCurrentPage=&from=menu&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=4
  */
 import Foundation
 

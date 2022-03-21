@@ -75,3 +75,6 @@
 + boj12970_AB(Greedy) : 아이디어 참고
 + boj1201_NMK(Greedy)
 + boj2873_롤러코스터(Greedy) : 아이디어 상기 정도만 다시
+
++ boj16916_부분문자열(String) : 문자열 개념 상기
++ boj1786_찾기(String) : 주석 내용 복습
