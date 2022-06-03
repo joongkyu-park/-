@@ -17,11 +17,12 @@ var pi = Array(repeating: 0, count: p.count)
 getPi()
 
 var answer = 0
-var j = 0
+var j = 0 //패턴의 인덱스
 for i in 0..<s.count {
-    while j>0 && s[i] != p[j] {
-        j = pi[j-1]
-    }
+    while j>0 && s[i] != p[j] { //매칭되지않는 부분 발견!
+        j = pi[j-1] //나(j)바로 전까지의 pi값에 의하여 j의 인덱스 땡겨오기
+    } //while문 쓰는이유 -> 땡겨오고나서 다시 p[j]랑 s[i]가 같은지 비교해야하니까! -> 다르면 다시 땡겨와야하니까
+    
     if s[i] == p[j] {
         if j == p.count-1 {
             answer = 1
