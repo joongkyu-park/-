@@ -5,3 +5,8 @@
 - 2/17 (금)
     - 2420. Find All Good Indices
         - https://leetcode.com/problems/find-all-good-indices/solutions/2620565/dp-c-java-python-intuition/
+- 2/26 (일)
+    - 2062. Count Vowel Substrings of a String
+        - https://leetcode.com/problems/count-vowel-substrings-of-a-string/solutions/1563737/sliding-window/?orderBy=most_votes
+    - 1416. Restore The Array
+        - https://leetcode.com/problems/restore-the-array/solutions/585552/java-c-dfs-memoization-clean-code/?orderBy=most_votes
